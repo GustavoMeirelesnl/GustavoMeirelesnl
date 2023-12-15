@@ -2,8 +2,8 @@
 
 # ❤ Oii! Sou Gustavo Meireles
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuxtaSi&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=GuxtaSi&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavomeirelesnl&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Gustavomeirelesnl&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 
 
