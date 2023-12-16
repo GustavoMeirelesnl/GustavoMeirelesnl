@@ -2,7 +2,7 @@
 
 # Oii! Sou Gustavo Meireles
 
----
+
 
 
 <img src = "giphy.gif" width = "250px" align = "right">
