@@ -1,4 +1,4 @@
-<img src = "giphy.gif" width = "325px" align = "right">
+<img src = "giphy.gif" width = "275px" align = "right">
 
 # ❤ Oii! Sou Gustavo Meireles
 <div align = "left">
