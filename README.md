@@ -5,15 +5,15 @@
 ---
 
 
-<img src = "giphy.gif" width = "300px" align = "right">
+<img src = "giphy.gif" width = "280px" align = "right">
 
 
 
 
 
 <div align = "left">
-<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavomeirelesnl&show_icons=true&theme=bear&count_private=true"/>
-<img height = "150em" src="https://github-readme-stats.vercel.app/api?username=Gustavomeirelesnl&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavomeirelesnl&show_icons=true&theme=bear&count_private=true"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Gustavomeirelesnl&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
  
 
