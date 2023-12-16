@@ -5,7 +5,7 @@
 ---
 
 
-<img src = "giphy.gif" width = "280px" align = "right">
+<img src = "giphy.gif" width = "250px" align = "right">
 
 
 
