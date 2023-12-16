@@ -5,13 +5,13 @@
 
 
 
-<img src = "giphy.gif" width = "250px" align = "right">
+<img src = "giphy.gif" width = "240px" align = "right">
 
 
 
 
 
-<div align = "center">
+<div align = "left">
 <img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavomeirelesnl&show_icons=true&theme=bear&count_private=true"/>
 <img height = "170em" src="https://github-readme-stats.vercel.app/api?username=Gustavomeirelesnl&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
