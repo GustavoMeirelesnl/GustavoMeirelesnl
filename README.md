@@ -30,7 +30,7 @@
 
   ---
 
-Me formando em Sistemas de informação, amo desafios e musica.
+Formado em Sistemas de informação, amo desafios e musica.
 
 - ❤ Estudando React
 - 💙 Criando Portfólio
